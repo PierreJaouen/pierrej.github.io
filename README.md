@@ -1,5 +1,11 @@
-# PierreJ
-Hello World,
-Here is my simple BLOG! 
-Check the link below => https://www.linkedin.com/feed/
+# Sharing my TECH findings!
+
+Hey there, thanks for stopping by! 
+
+2024 and I am starting to share tech related content that I like and give a one liner why it's important for me!
+
+
+
+
+
 
